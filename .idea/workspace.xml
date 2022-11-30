@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4910385e-f381-4772-b62f-4b6bb27c505f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jwt/s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0eeef40-8230-49ac-9de0-2570b03f7592.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b0eeef40-8230-49ac-9de0-2570b03f7592.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jwt/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/jwt/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,8 @@
       <updated>1669062037292</updated>
       <workItem from="1669062049056" duration="16000" />
       <workItem from="1669407742425" duration="5530000" />
-      <workItem from="1669560782080" duration="798000" />
+      <workItem from="1669560782080" duration="2912000" />
+      <workItem from="1669796774430" duration="1437000" />
     </task>
     <servers />
   </component>
