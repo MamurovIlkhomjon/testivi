@@ -2,3 +2,4 @@ db.sqlite3
 text.txt
 main.py
 .idea
+jwt/aaa
